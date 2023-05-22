@@ -2,7 +2,7 @@
 
 * 74-1 => Project Setup
 * 74-2 => Setup Routes, Layout and Footer 
-
+* 74-3 Create simple Top Banner react responsive carousel
 
 ## react-boilerplate-2
 
