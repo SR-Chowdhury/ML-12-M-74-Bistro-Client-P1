@@ -1,4 +1,9 @@
-# react-boilerplate-2
+# ML-12-Module-74 [Final Project Part 1]
+
+* 74-1 => Project Setup 
+
+
+## react-boilerplate-2
 
 > Use this boilerplate just clone this project and run `npm install`
 
