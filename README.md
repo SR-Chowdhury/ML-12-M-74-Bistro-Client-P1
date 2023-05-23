@@ -3,6 +3,7 @@
 * 74-1 => Project Setup
 * 74-2 => Setup Routes, Layout and Footer 
 * 74-3 Create simple Top Banner react responsive carousel
+* 74-4 Use swiper JS to create a category Swiper
 
 ## react-boilerplate-2
 
