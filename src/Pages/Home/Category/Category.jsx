@@ -11,10 +11,12 @@ import img3 from '../../../assets/home/slide3.jpg';
 import img4 from '../../../assets/home/slide4.jpg';
 
 import './Category.css';
+import SectionTitle from '../../../Components/SectionTitle/SectionTitle';
 
 const Category = () => {
     return (
         <div className='mb-20'>
+            <SectionTitle subHeading={'From 10am To 10pm'} Heading={'Order Online'}/>
             <Swiper
                 slidesPerView={1}
                 spaceBetween={10}
