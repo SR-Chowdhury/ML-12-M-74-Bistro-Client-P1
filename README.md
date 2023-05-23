@@ -7,6 +7,7 @@
 * 74-5 Shared section title for different sections
 * 74-6 Show Popular menu items in the home page
 * 74-7 Featured items section
+* 74-8 Create Parallax and Add Testimonials with react rating
 
 
 ## react-boilerplate-2

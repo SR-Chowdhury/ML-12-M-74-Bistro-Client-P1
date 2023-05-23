@@ -1,5 +1,6 @@
 .featuredContainer {
-    background-image: url('../../../assets/home/featured.jpg');
+    background-image: linear-gradient(0deg, rgba(21, 21, 21, 0.7), rgba(21, 21, 21, 0.7)), url('../../../assets/home/featured.jpg');
+    /* background-image: url('../../../assets/home/featured.jpg'); */
     padding: 90px 0px;
 }
 
@@ -18,15 +19,6 @@
 .feature-details,
 .feature-img {
     width: 40%;
-}
-
-
-.feature-img {
-    /* padding: 10px 45px; */
-}
-
-.feature-img img {
-    /* width: 648px; */
 }
 
 .feature-title, .fetaure-date {

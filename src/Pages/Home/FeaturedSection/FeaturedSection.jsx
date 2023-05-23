@@ -5,7 +5,7 @@ import img from '../../../assets/home/featured.jpg';
 
 const FeaturedSection = () => {
     return (
-        <section className='featuredContainer'>
+        <section className='featuredContainer bg-fixed'>
             <SectionTitle subHeading={'Check it Out'} Heading={'From Our Menu'} />
             <div className='featuredItem'>
                 <div className="feature-img">
